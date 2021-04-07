@@ -9,11 +9,10 @@
  * Student ID: 149792186.
  * Date: Apr 07, 2021 *
  *
- * Online Link:
+ * Online Link: https://silly-chandrasekhar-9aad68.netlify.app
  * ********************************************************************************/
 import { Component, OnInit } from '@angular/core';
 import { NavigationStart, Router, Event } from '@angular/router';
-import { combineAll } from 'rxjs/operators';
 import { AuthService } from './auth.service';
 
 @Component({
