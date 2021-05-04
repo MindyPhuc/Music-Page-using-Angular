@@ -1,4 +1,6 @@
-# HuynhA4
+# Music App
+
+This project is a project I did at Seneca under the instruction of Professor Patrick Crawford (https://pat-crawford-sdds.netlify.app/#/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
