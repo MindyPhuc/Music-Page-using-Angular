@@ -2,6 +2,9 @@
 
 This project is a project I did at Seneca under the instruction of Professor Patrick Crawford (https://pat-crawford-sdds.netlify.app/#/)
 
+Deployed on Netlify: https://silly-chandrasekhar-9aad68.netlify.app
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
